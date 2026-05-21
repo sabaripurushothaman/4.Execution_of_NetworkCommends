@@ -42,7 +42,7 @@ print(s.recv(1024).decode())
 ## NESTAT:
 <img width="802" height="374" alt="Screenshot 2026-05-21 131008" src="https://github.com/user-attachments/assets/5f5ec6a2-9307-4f1b-971f-96a32fe4e294" />
 ## IP CONFIGURATION:
-<img width="806" height="382" alt="Screenshot 2026-05-21 131043" src="https://github.com/user-attachments/assets/52aaca5b-3b77-43e9-9479-60a7559dd2cb" />
+<img width="923" height="695" alt="image" src="https://github.com/user-attachments/assets/b7b28d99-39b4-4f04-a90f-8498f6f95df7" />
 ## GETMAC:
 <img width="807" height="166" alt="Screenshot 2026-05-21 131111" src="https://github.com/user-attachments/assets/dcfc56b0-7870-4f54-84e3-e4db82f22af6" />
 ## ARP:
